@@ -8,7 +8,7 @@ import AddWorkout from './components/addWorkout';
 import ViewWorkout from './components/viewWorkout';
 import Settings from './components/settings';
 
-import { WorkoutProvider } from './assets/myContext';
+import { WorkoutProvider } from './Context/myContext';
 import { useState } from 'react';
 
 
